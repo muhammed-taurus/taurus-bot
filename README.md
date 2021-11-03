@@ -75,7 +75,7 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
 <br>
 <br >
 
-[![muhammed-usrbot](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+[![muhammed-usrbot](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-bot)
    
 
 
