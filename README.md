@@ -8,7 +8,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=taurus+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+muhammed-usrbot)](https://bit.ly/3lC8I7t)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="TEFXG.gif" height="400" width="400" /></a>
+  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="TEFXG.gif" height="200" width="200" /></a>
 </p>
   
   <p align="center">
