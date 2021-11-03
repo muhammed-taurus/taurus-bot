@@ -1,25 +1,25 @@
-<a href="https://bit.ly/3lC8I7t"><img src="https://fontmeme.com/permalink/210919/d39f3098c29a4e374f6dbc92050213be.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/fcdc7ab90b2edba6f511576b1be7e11d.png" alt="google-font" border="0"></a>
 
 <details>
     <summary>⏬ <b>CLICK ME 🤗</b></summary>
 
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=taurus+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+muhammed-usrbot)](https://bit.ly/3lC8I7t)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="TEFXG.gif" height="400" width="400" /></a>
 </p>
   
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="taurus-bot" src="https://img.shields.io/badge/taurus-bot-green?colorA=&colorB=899AFF&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author- muhammed-bj?color=899AFF&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,21 +29,21 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/muhammed-usrbot/taurus-bot">
+    <img src="https://img.shields.io/github/repo-size/muhammed-usrbot/taurus-bot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/muhammed-usrbot?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/taurus-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muhammed-usrbot/taurus-bot?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/taurus-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muhammed-usrbot/taurus-bot?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/sourav-mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/taurus_mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">SUBSCRIBE MY EDITING CHANNEL:</h4>
 <p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
+<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TEFX.jpg" height="180" width="300" /></a>
 </p>
   
 <div align="center">
@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Gw7VwSNTRQl49XsSCatWjt)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL)
 
 
     
@@ -68,14 +68,14 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
   Step 3: Turn on worker
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SOURAVKL11/Raganarok-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
      <div align="left">
 <br>
 <br >
 
-[![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+[![muhammed-usrbot](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
    
 
 
@@ -83,7 +83,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ```
 യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
 ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, Raganork എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
+തീർച്ചയായും, taurus-bot എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
 അസേന സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
 ```
@@ -91,9 +91,9 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) 
 ----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
+   [MUHAMMED](https://github.com/muhammed-usrbot) 
 Base, Bug Fixes, Modules
   </div>
    
@@ -106,4 +106,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
   <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=899AFF&size=30&lines=TAURUS+WA+BOT)](https://bit.ly/3lC8I7t)
