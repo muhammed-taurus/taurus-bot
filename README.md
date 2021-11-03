@@ -70,7 +70,7 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-bot)
      <div align="left">
 <br>
 <br >
