@@ -68,7 +68,7 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
   
   Step 3: Turn on worker
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SOURAVKL11/Raganarok-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
      <div align="left">
