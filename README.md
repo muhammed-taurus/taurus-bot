@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
 </p>
 <h4 align="center">SUBSCRIBE MY EDITING CHANNEL:</h4>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TEFXK.jpg" height="180" width="300" /></a>
+<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TEFXK.jpg" height="30" width="150" /></a>
 </p>
   
 <div align="center">
