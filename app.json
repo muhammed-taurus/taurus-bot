@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "RAGANORK_CODE": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```Onnum avasaanichittilla !!!```\n\n```Type``` *.help* ```for commands```\n\n```💥𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊💥```"
+            "value": "\n ```𝐭𝐡𝐢𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐚 𝐞𝐧𝐝 !!!```\n\n```Type``` *.help* ```for commands```\n\n```💥𝐓𝐀𝐔𝐑𝐔𝐒_𝐁𝐎𝐓💥```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
